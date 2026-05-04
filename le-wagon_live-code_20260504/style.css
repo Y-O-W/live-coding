@@ -1,0 +1,17 @@
+h1 {
+    color: oklch(65% 0.18 250);
+    font-size: 60px;
+}
+
+h2 {
+    color: oklch(28.441% 0.03299 242.281);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: oklch(0.6188 0.1159 261.93);
+    background-image: url("");
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
